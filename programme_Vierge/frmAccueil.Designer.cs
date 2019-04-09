@@ -28,13 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btnToPoly = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnToPoly
+            // 
+            this.btnToPoly.Location = new System.Drawing.Point(31, 25);
+            this.btnToPoly.Name = "btnToPoly";
+            this.btnToPoly.Size = new System.Drawing.Size(90, 48);
+            this.btnToPoly.TabIndex = 0;
+            this.btnToPoly.Text = "Vers poly";
+            this.btnToPoly.UseVisualStyleBackColor = true;
+            this.btnToPoly.Click += new System.EventHandler(this.btnToPoly_Click);
+            // 
+            // frmAccueil
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnToPoly);
+            this.Name = "frmAccueil";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnToPoly;
     }
 }
 

@@ -50,6 +50,7 @@
             this.btnInfoGitGithub.TabIndex = 23;
             this.btnInfoGitGithub.Text = "Infos Git/GitHub";
             this.btnInfoGitGithub.UseVisualStyleBackColor = true;
+            this.btnInfoGitGithub.Click += new System.EventHandler(this.btnInfoGitGithub_Click);
             // 
             // btnInfoDll
             // 
@@ -59,6 +60,7 @@
             this.btnInfoDll.TabIndex = 22;
             this.btnInfoDll.Text = "Infos DLL";
             this.btnInfoDll.UseVisualStyleBackColor = true;
+            this.btnInfoDll.Click += new System.EventHandler(this.btnInfoDll_Click);
             // 
             // lblAuthor
             // 
@@ -77,6 +79,7 @@
             this.btnInterface.TabIndex = 20;
             this.btnInterface.Text = "Infos Interface";
             this.btnInterface.UseVisualStyleBackColor = true;
+            this.btnInterface.Click += new System.EventHandler(this.btnInterface_Click);
             // 
             // btnInfoPoly
             // 
@@ -86,6 +89,7 @@
             this.btnInfoPoly.TabIndex = 19;
             this.btnInfoPoly.Text = "Infos Polymorphisme";
             this.btnInfoPoly.UseVisualStyleBackColor = true;
+            this.btnInfoPoly.Click += new System.EventHandler(this.btnInfoPoly_Click);
             // 
             // lblContent
             // 

@@ -16,5 +16,11 @@ namespace programme_Vierge
         {
             InitializeComponent();
         }
+
+        private void btnToPoly_Click(object sender, EventArgs e)
+        {
+            frmAccueilPoly poly = new frmAccueilPoly();
+            poly.Show();
+        }
     }
 }
