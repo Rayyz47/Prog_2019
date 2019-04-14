@@ -1,0 +1,10 @@
+C:\Users\Alexandre\Desktop\interTest\interTest\bin\Debug\interTest.exe.config
+C:\Users\Alexandre\Desktop\interTest\interTest\bin\Debug\interTest.exe
+C:\Users\Alexandre\Desktop\interTest\interTest\bin\Debug\interTest.pdb
+C:\Users\Alexandre\Desktop\interTest\interTest\obj\Debug\interTest.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\interTest\interTest\obj\Debug\interTest.frmFRM.resources
+C:\Users\Alexandre\Desktop\interTest\interTest\obj\Debug\interTest.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\interTest\interTest\obj\Debug\interTest.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\interTest\interTest\obj\Debug\interTest.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\interTest\interTest\obj\Debug\interTest.exe
+C:\Users\Alexandre\Desktop\interTest\interTest\obj\Debug\interTest.pdb
