@@ -9,6 +9,10 @@ namespace programme_Vierge
 {
     public abstract class cTemplateInfos
     {
+        /// <summary>
+        /// -- Ces 4 éléments seront envoyés aux héritiers
+        /// </summary>
+        /// <returns></returns>
         public abstract string isAuthor();
         public abstract string isContent();
         public abstract int isDate();
