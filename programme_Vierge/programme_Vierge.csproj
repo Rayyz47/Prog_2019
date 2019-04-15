@@ -49,6 +49,7 @@
     <Compile Include="cDllInfos.cs" />
     <Compile Include="cGit.cs" />
     <Compile Include="cInterface.cs" />
+    <Compile Include="cInterfaceAlex.cs" />
     <Compile Include="cPolymorphismInfos.cs" />
     <Compile Include="cTemplateInfos.cs" />
     <Compile Include="frmAccueil.cs">
@@ -63,6 +64,12 @@
     <Compile Include="frmAccueilPoly.Designer.cs">
       <DependentUpon>frmAccueilPoly.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInterface.Designer.cs">
+      <DependentUpon>frmInterface.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmAccueil.resx">
@@ -70,6 +77,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmAccueilPoly.resx">
       <DependentUpon>frmAccueilPoly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInterface.resx">
+      <DependentUpon>frmInterface.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -9,3 +9,15 @@ C:\Users\Marie-Pier\Desktop\anything\programme_Vierge\obj\Debug\programme_Vierge
 C:\Users\Marie-Pier\Desktop\anything\programme_Vierge\obj\Debug\programme_Vierge.csproj.CoreCompileInputs.cache
 C:\Users\Marie-Pier\Desktop\anything\programme_Vierge\obj\Debug\programme_Vierge.exe
 C:\Users\Marie-Pier\Desktop\anything\programme_Vierge\obj\Debug\programme_Vierge.pdb
+C:\Users\2500072\Desktop\asdsad\programme_Vierge\bin\Debug\programme_Vierge.exe.config
+C:\Users\2500072\Desktop\asdsad\programme_Vierge\bin\Debug\programme_Vierge.exe
+C:\Users\2500072\Desktop\asdsad\programme_Vierge\bin\Debug\programme_Vierge.pdb
+C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.csprojAssemblyReference.cache
+C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.frmAccueil.resources
+C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.frmAccueilPoly.resources
+C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.frmInterface.resources
+C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.Properties.Resources.resources
+C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.csproj.GenerateResource.cache
+C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.csproj.CoreCompileInputs.cache
+C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.exe
+C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.pdb

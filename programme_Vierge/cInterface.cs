@@ -45,5 +45,24 @@ namespace programme_Vierge
             dateEntryChild = 20190409;
             return dateEntryChild;
         }
+        interface StringRand
+        {
+            string motInterface();
+        }
+
+        //L'interface IntRand contiens un int
+        interface IntRand
+        {
+            int intInterface();
+        }
+
+        //L'interface contiens plusieurs Variable
+        interface MultipleVariable
+        {
+            string motInterface();
+            bool valide();
+            int intInterface();
+        }
     }
 }
+
