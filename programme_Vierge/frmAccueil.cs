@@ -22,5 +22,12 @@ namespace programme_Vierge
             frmAccueilPoly poly = new frmAccueilPoly();
             poly.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            frmInterface frm = new frmInterface();
+            frm.Show();
+            Hide();
+        }
     }
 }
