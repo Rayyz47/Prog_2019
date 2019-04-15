@@ -21,3 +21,16 @@ C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.cspr
 C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.csproj.CoreCompileInputs.cache
 C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.exe
 C:\Users\2500072\Desktop\asdsad\programme_Vierge\obj\Debug\programme_Vierge.pdb
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\bin\Debug\programme_Vierge.exe.config
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\bin\Debug\programme_Vierge.exe
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\bin\Debug\programme_Vierge.pdb
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\obj\Debug\programme_Vierge.csprojAssemblyReference.cache
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\obj\Debug\programme_Vierge.frmAccueil.resources
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\obj\Debug\programme_Vierge.frmAccueilPoly.resources
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\obj\Debug\programme_Vierge.frmInterface.resources
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\obj\Debug\programme_Vierge.Properties.Resources.resources
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\obj\Debug\programme_Vierge.csproj.GenerateResource.cache
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\obj\Debug\programme_Vierge.csproj.CoreCompileInputs.cache
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\obj\Debug\programme_Vierge.exe
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\obj\Debug\programme_Vierge.pdb
+C:\Users\Denis Filipovic\Desktop\asdasdas\programme_Vierge\obj\Debug\programme_Vierge.frmPoly2.resources

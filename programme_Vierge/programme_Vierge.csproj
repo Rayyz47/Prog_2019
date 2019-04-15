@@ -46,11 +46,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="cAnimal.cs" />
+    <Compile Include="cCat.cs" />
     <Compile Include="cDllInfos.cs" />
+    <Compile Include="cDog.cs" />
+    <Compile Include="cGermanShepard.cs" />
     <Compile Include="cGit.cs" />
     <Compile Include="cInterface.cs" />
     <Compile Include="cInterfaceAlex.cs" />
     <Compile Include="cPolymorphismInfos.cs" />
+    <Compile Include="cSnake.cs" />
     <Compile Include="cTemplateInfos.cs" />
     <Compile Include="frmAccueil.cs">
       <SubType>Form</SubType>
@@ -70,6 +75,12 @@
     <Compile Include="frmInterface.Designer.cs">
       <DependentUpon>frmInterface.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmPoly2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPoly2.Designer.cs">
+      <DependentUpon>frmPoly2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmAccueil.resx">
@@ -80,6 +91,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmInterface.resx">
       <DependentUpon>frmInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPoly2.resx">
+      <DependentUpon>frmPoly2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
